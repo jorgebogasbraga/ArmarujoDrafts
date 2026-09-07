@@ -1,0 +1,22 @@
+{
+  "session_id": "1787152664",
+  "session_dir": "data\\system_test_backup\\1787152664",
+  "divisions": [
+    "Acuity",
+    "Verity",
+    "Valor",
+    "Origin",
+    "Lunar"
+  ],
+  "coaches_backup": "data\\system_test_backup\\1787152664\\coaches.json",
+  "state_backups": {
+    "Acuity": null,
+    "Verity": null,
+    "Valor": null,
+    "Origin": null,
+    "Lunar": null
+  },
+  "sheets_snapshot": "data\\system_test_backup\\1787152664\\sheets_snapshot.json",
+  "replacements_log": "data\\system_test_backup\\1787152664\\replacements.json",
+  "created_at": 1787152667.090794
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "division": "Lunar",
+    "old": {
+      "discord_id": "509190231803559937",
+      "name": "BanditBoyd",
+      "team_name": "Venus Weedusaur",
+      "timezone": "GMT-4",
+      "logo_url": "https://media.discordapp.net/attachments/980488811064733696/1263517120579502152/IMG_1610.png?ex=6a428e84&is=6a413d04&hm=23558a4ee63038c5fd8ef17e362cf22e4e1aca120317ea2f9df2f191b9d8511e&=&format=webp&quality=lossless&width=550&height=309"
+    },
+    "new": {
+      "discord_id": "360676166950060034",
+      "name": "Toniblast",
+      "team_name": "Ronaldo Entushiast",
+      "timezone": "GMT+1",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1522418206999052298/Screenshot_2026-07-03-02-45-57-160_com.facebook.katana-edit.jpg"
+    },
+    "timestamp": 1787152935.8660793
+  },
+  {
+    "division": "Origin",
+    "old": {
+      "discord_id": "255491400769077251",
+      "name": "SaveMeJebus",
+      "team_name": "Goblin Attack",
+      "timezone": "GMT+1",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1525493895868452994/1776596654452.jpg"
+    },
+    "new": {
+      "discord_id": "255491400769077251",
+      "name": "SaveMeJebus",
+      "team_name": "Goblin Attack",
+      "timezone": "GMT+1",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1525493895868452994/1776596654452.jpg"
+    },
+    "timestamp": 1787152938.4641683
+  },
+  {
+    "division": "Verity",
+    "old": {
+      "discord_id": "329968540419358720",
+      "name": "lex",
+      "team_name": "Tens HI5?",
+      "timezone": "GMT+2",
+      "logo_url": "https://media.discordapp.net/attachments/1536078493723402280/1538532787907465257/Screenshot_2026-08-16-13-59-22-314_com.whatsapp-edit.jpg"
+    },
+    "new": {
+      "discord_id": "329968540419358720",
+      "name": "lex",
+      "team_name": "Tens HI5?",
+      "timezone": "GMT+2",
+      "logo_url": "https://media.discordapp.net/attachments/1536078493723402280/1538532787907465257/Screenshot_2026-08-16-13-59-22-314_com.whatsapp-edit.jpg"
+    },
+    "timestamp": 1787152971.8341188
+  },
+  {
+    "division": "Valor",
+    "old": {
+      "discord_id": "559554681173704725",
+      "name": "asilentmusician",
+      "team_name": "New Jersey Substitutes",
+      "timezone": "GMT-4",
+      "logo_url": "https://media.discordapp.net/attachments/1186336826319962112/1246995445369016410/Logo_MK_III.jpg?ex=6a426fc2&is=6a411e42&hm=47d2aa385333d7298a94c16795db68f07eb462d991be191f8813a4fdcf84ee81&=&format=webp"
+    },
+    "new": {
+      "discord_id": "191576174340603904",
+      "name": "dopin",
+      "team_name": "Electric Calbry",
+      "timezone": "GMT+4",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1525493846396633108/1776596636617.jpg"
+    },
+    "timestamp": 1787152998.851249
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "default_locale": "en",
+  "regular_season_weeks": 10,
+  "playoff_start_week": 11,
+  "max_trades_per_coach": 3,
+  "trade_deadline_week_offset": 2,
+  "trades_channel_ids": {},
+  "default_timezone": "Europe/Lisbon",
+  "features": {
+    "tera": true,
+    "disabled_commands": []
+  },
+  "quiet_hours": {
+    "enabled": false,
+    "timezone": "Europe/Lisbon",
+    "pause_at": "23:00",
+    "resume_at": "09:00"
+  }
+}

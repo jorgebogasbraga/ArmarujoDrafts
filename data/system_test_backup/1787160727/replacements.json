@@ -1,0 +1,20 @@
+[
+  {
+    "division": "Origin",
+    "old": {
+      "discord_id": "534882472693989377",
+      "name": "Lavaskull100",
+      "team_name": "Sting City Croagunks",
+      "timezone": "GMT-5",
+      "logo_url": "https://media.discordapp.net/attachments/1186336826319962112/1193662046756155403/SCC.png?ex=6a4235a9&is=6a40e429&hm=96774b44526b60ae9b20453e26511db09da7c5e1d3e18b1c7635e1e2e1cb8b4c&=&format=webp&quality=lossless&width=696&height=696"
+    },
+    "new": {
+      "discord_id": "255491400769077251",
+      "name": "SaveMeJebus",
+      "team_name": "Goblin Attack",
+      "timezone": "GMT+1",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1525493895868452994/1776596654452.jpg"
+    },
+    "timestamp": 1787160993.669611
+  }
+]

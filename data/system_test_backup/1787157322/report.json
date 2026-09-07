@@ -1,0 +1,212 @@
+{
+  "session_id": "1787157322",
+  "session_dir": "data\\system_test_backup\\1787157322",
+  "admin_id": "238787830350872577",
+  "divisions": [
+    "Acuity",
+    "Verity",
+    "Valor",
+    "Origin",
+    "Lunar"
+  ],
+  "started_at": 1787157323.5119107,
+  "started_at_iso": "2026-08-19T16:35:23.511911+00:00",
+  "finished_at": 1787157338.5850747,
+  "finished_at_iso": "2026-08-19T16:35:38.585075+00:00",
+  "duration_seconds": 15.07,
+  "success": false,
+  "error": "name 'board_pick_cell_ref' is not defined",
+  "rolled_back": false,
+  "division_results": {
+    "Acuity": false,
+    "Verity": false,
+    "Valor": false,
+    "Origin": false,
+    "Lunar": false
+  },
+  "entries_by_scope": {
+    "Acuity": [
+      {
+        "timestamp": 1787157323.9926434,
+        "iso": "2026-08-19T16:35:23.992643+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787157326.3968804,
+        "iso": "2026-08-19T16:35:26.396880+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787157337.498136,
+        "iso": "2026-08-19T16:35:37.498136+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787157338.315197,
+        "iso": "2026-08-19T16:35:38.315197+00:00",
+        "level": "error",
+        "division": "Acuity",
+        "message": "Acuity failed: name 'board_pick_cell_ref' is not defined"
+      }
+    ],
+    "Verity": [
+      {
+        "timestamp": 1787157327.1841044,
+        "iso": "2026-08-19T16:35:27.184104+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787157328.9100506,
+        "iso": "2026-08-19T16:35:28.910051+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787157337.499136,
+        "iso": "2026-08-19T16:35:37.499136+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787157338.315197,
+        "iso": "2026-08-19T16:35:38.315197+00:00",
+        "level": "error",
+        "division": "Verity",
+        "message": "Verity failed: name 'board_pick_cell_ref' is not defined"
+      }
+    ],
+    "Valor": [
+      {
+        "timestamp": 1787157329.571015,
+        "iso": "2026-08-19T16:35:29.571015+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787157331.9205556,
+        "iso": "2026-08-19T16:35:31.920556+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787157337.5001366,
+        "iso": "2026-08-19T16:35:37.500137+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787157338.316198,
+        "iso": "2026-08-19T16:35:38.316198+00:00",
+        "level": "error",
+        "division": "Valor",
+        "message": "Valor failed: name 'board_pick_cell_ref' is not defined"
+      }
+    ],
+    "Origin": [
+      {
+        "timestamp": 1787157332.4496984,
+        "iso": "2026-08-19T16:35:32.449698+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787157334.4574106,
+        "iso": "2026-08-19T16:35:34.457411+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787157337.5001366,
+        "iso": "2026-08-19T16:35:37.500137+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787157338.316198,
+        "iso": "2026-08-19T16:35:38.316198+00:00",
+        "level": "error",
+        "division": "Origin",
+        "message": "Origin failed: name 'board_pick_cell_ref' is not defined"
+      }
+    ],
+    "Lunar": [
+      {
+        "timestamp": 1787157335.0169632,
+        "iso": "2026-08-19T16:35:35.016963+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787157336.9572065,
+        "iso": "2026-08-19T16:35:36.957206+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787157337.5011363,
+        "iso": "2026-08-19T16:35:37.501136+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787157338.3171978,
+        "iso": "2026-08-19T16:35:38.317198+00:00",
+        "level": "error",
+        "division": "Lunar",
+        "message": "Lunar failed: name 'board_pick_cell_ref' is not defined"
+      }
+    ],
+    "_global": [
+      {
+        "timestamp": 1787157323.5119107,
+        "iso": "2026-08-19T16:35:23.511911+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "System test started"
+      },
+      {
+        "timestamp": 1787157323.5129101,
+        "iso": "2026-08-19T16:35:23.512910+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Starting system test across 5 divisions: Acuity, Verity, Valor, Origin, Lunar"
+      },
+      {
+        "timestamp": 1787157323.7274346,
+        "iso": "2026-08-19T16:35:23.727435+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Phase 0 — sequential init (coaches.json safety)"
+      },
+      {
+        "timestamp": 1787157338.3241396,
+        "iso": "2026-08-19T16:35:38.324140+00:00",
+        "level": "error",
+        "division": null,
+        "message": "⛔ FAILED: name 'board_pick_cell_ref' is not defined — review logs, then run `/rollback_system_test` when ready to restore."
+      }
+    ]
+  },
+  "entry_count": 24,
+  "report_log": "data\\system_test_backup\\1787157322\\report.log",
+  "report_json": "data\\system_test_backup\\1787157322\\report.json"
+}

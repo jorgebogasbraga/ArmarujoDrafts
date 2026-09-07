@@ -1,0 +1,17 @@
+{
+  "divisions": [
+    {
+      "name": "Champions",
+      "channel_id": 1545841482991276144,
+      "sheet_name": "Tabela do Draft",
+      "team_size": 8,
+      "total_points": 90,
+      "tera_captain_points": 0,
+      "pick_time_initial": 10800,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "num_coaches": 16,
+      "first_coach": ""
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "session_id": "1787160727",
+  "session_dir": "data\\system_test_backup\\1787160727",
+  "admin_id": "238787830350872577",
+  "divisions": [
+    "Acuity",
+    "Verity",
+    "Valor",
+    "Origin",
+    "Lunar"
+  ],
+  "started_at": 1787160728.078511,
+  "started_at_iso": "2026-08-19T17:32:08.078511+00:00",
+  "finished_at": 1787161120.586881,
+  "finished_at_iso": "2026-08-19T17:38:40.586881+00:00",
+  "duration_seconds": 392.51,
+  "success": false,
+  "error": "Acuity bank R6 failed: **Urshifu** is ambiguous — specify the exact form: Urshifu, Urshifu-RS",
+  "rolled_back": false,
+  "division_results": {
+    "Acuity": false,
+    "Verity": false,
+    "Valor": false,
+    "Origin": true,
+    "Lunar": false
+  },
+  "entries_by_scope": {
+    "Acuity": [
+      {
+        "timestamp": 1787160728.5013528,
+        "iso": "2026-08-19T17:32:08.501353+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787160730.9069295,
+        "iso": "2026-08-19T17:32:10.906929+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787160741.0194468,
+        "iso": "2026-08-19T17:32:21.019447+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787160750.5133207,
+        "iso": "2026-08-19T17:32:30.513321+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 3 — pick bank for Durza (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787161120.2768106,
+        "iso": "2026-08-19T17:38:40.276811+00:00",
+        "level": "error",
+        "division": "Acuity",
+        "message": "Acuity failed: Acuity bank R6 failed: **Urshifu** is ambiguous — specify the exact form: Urshifu, Urshifu-RS"
+      }
+    ],
+    "Verity": [
+      {
+        "timestamp": 1787160731.460185,
+        "iso": "2026-08-19T17:32:11.460185+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787160733.1518037,
+        "iso": "2026-08-19T17:32:13.151804+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787160741.0204468,
+        "iso": "2026-08-19T17:32:21.020447+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787160750.8912327,
+        "iso": "2026-08-19T17:32:30.891233+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 3 — pick bank for maxo (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787161120.2768106,
+        "iso": "2026-08-19T17:38:40.276811+00:00",
+        "level": "error",
+        "division": "Verity",
+        "message": "Verity failed: Verity bank R6 failed: **Urshifu** is ambiguous — specify the exact form: Urshifu, Urshifu-RS"
+      }
+    ],
+    "Valor": [
+      {
+        "timestamp": 1787160733.675385,
+        "iso": "2026-08-19T17:32:13.675385+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787160735.4911194,
+        "iso": "2026-08-19T17:32:15.491119+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787160741.021447,
+        "iso": "2026-08-19T17:32:21.021447+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787160752.5808005,
+        "iso": "2026-08-19T17:32:32.580801+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 3 — pick bank for Flashkun (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787161120.2778113,
+        "iso": "2026-08-19T17:38:40.277811+00:00",
+        "level": "error",
+        "division": "Valor",
+        "message": "Valor failed: Valor bank R6 failed: **Urshifu** is ambiguous — specify the exact form: Urshifu, Urshifu-RS"
+      }
+    ],
+    "Origin": [
+      {
+        "timestamp": 1787160736.017868,
+        "iso": "2026-08-19T17:32:16.017868+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787160738.079238,
+        "iso": "2026-08-19T17:32:18.079238+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787160741.021447,
+        "iso": "2026-08-19T17:32:21.021447+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787160750.735278,
+        "iso": "2026-08-19T17:32:30.735278+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 3 — pick bank for Jhonny (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Chi-Yu"
+      },
+      {
+        "timestamp": 1787160751.3886628,
+        "iso": "2026-08-19T17:32:31.388663+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 3b — advance to Round 4 bank pick for Jhonny (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787160858.8335059,
+        "iso": "2026-08-19T17:34:18.833506+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Round 4 pick completed for Jhonny"
+      },
+      {
+        "timestamp": 1787160859.3846815,
+        "iso": "2026-08-19T17:34:19.384681+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787160860.2914176,
+        "iso": "2026-08-19T17:34:20.291418+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787160869.0360098,
+        "iso": "2026-08-19T17:34:29.036010+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787160871.6563346,
+        "iso": "2026-08-19T17:34:31.656335+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787160874.277494,
+        "iso": "2026-08-19T17:34:34.277494+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787160877.0681038,
+        "iso": "2026-08-19T17:34:37.068104+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 9 — 3 natural timer skips on Lavaskull100 → /replace with SaveMeJebus"
+      },
+      {
+        "timestamp": 1787160997.6162581,
+        "iso": "2026-08-19T17:36:37.616258+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787160998.2931128,
+        "iso": "2026-08-19T17:36:38.293113+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Replace flow complete"
+      },
+      {
+        "timestamp": 1787161003.369637,
+        "iso": "2026-08-19T17:36:43.369637+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 10 — drain makeups and /pick until all teams are full"
+      },
+      {
+        "timestamp": 1787161003.9317544,
+        "iso": "2026-08-19T17:36:43.931754+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "Finishing — round 7 (89/140 roster slots)"
+      },
+      {
+        "timestamp": 1787161024.0379539,
+        "iso": "2026-08-19T17:37:04.037954+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "Finishing — round 8 (98/140 roster slots)"
+      },
+      {
+        "timestamp": 1787161055.025637,
+        "iso": "2026-08-19T17:37:35.025637+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "Finishing — round 9 (112/140 roster slots)"
+      },
+      {
+        "timestamp": 1787161086.4814255,
+        "iso": "2026-08-19T17:38:06.481426+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "Finishing — round 10 (126/140 roster slots)"
+      },
+      {
+        "timestamp": 1787161119.7322297,
+        "iso": "2026-08-19T17:38:39.732230+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Draft complete — 140/140 roster slots, status=completed"
+      },
+      {
+        "timestamp": 1787161120.2748106,
+        "iso": "2026-08-19T17:38:40.274811+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "140/140 roster slots\nDobby: 10/10 (0 pts left)\nSicko Modem: 10/10 (1 pts left)\nOCordO: 10/10 (0 pts left)\nJhonny: 10/10 (0 pts left)\nMcMillions: 10/10 (2 pts left)\nSaveMeJebus: 10/10 (2 pts left)\nAndyFisherman: 10/10 (0 pts left)\nDaviduvi: 10/10 (3 pts left)\nRiperino: 10/10 (0 pts left)\nFabriks: 10/10 (0 pts left)\nThoogy: 10/10 (1 pts left)\nVaami: 10/10 (1 pts left)\nHoo: 10/10 (0 pts left)\nfrobe: 10/10 (2 pts left)"
+      }
+    ],
+    "Lunar": [
+      {
+        "timestamp": 1787160738.7149265,
+        "iso": "2026-08-19T17:32:18.714926+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787160740.4839551,
+        "iso": "2026-08-19T17:32:20.483955+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787160741.0224476,
+        "iso": "2026-08-19T17:32:21.022448+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787160750.798085,
+        "iso": "2026-08-19T17:32:30.798085+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 3 — pick bank for Spartan (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787161120.2778113,
+        "iso": "2026-08-19T17:38:40.277811+00:00",
+        "level": "error",
+        "division": "Lunar",
+        "message": "Lunar failed: Lunar bank R6 failed: **Urshifu** is ambiguous — specify the exact form: Urshifu, Urshifu-RS"
+      }
+    ],
+    "_global": [
+      {
+        "timestamp": 1787160728.078511,
+        "iso": "2026-08-19T17:32:08.078511+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "System test started"
+      },
+      {
+        "timestamp": 1787160728.0795114,
+        "iso": "2026-08-19T17:32:08.079511+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Starting system test across 5 divisions: Acuity, Verity, Valor, Origin, Lunar"
+      },
+      {
+        "timestamp": 1787160728.2742977,
+        "iso": "2026-08-19T17:32:08.274298+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Phase 0 — sequential init (coaches.json safety)"
+      },
+      {
+        "timestamp": 1787161120.2798123,
+        "iso": "2026-08-19T17:38:40.279812+00:00",
+        "level": "error",
+        "division": null,
+        "message": "⛔ FAILED: Acuity bank R6 failed: **Urshifu** is ambiguous — specify the exact form: Urshifu, Urshifu-RS — review logs, then run `/rollback_system_test` when ready to restore."
+      }
+    ]
+  },
+  "entry_count": 45,
+  "report_log": "data\\system_test_backup\\1787160727\\report.log",
+  "report_json": "data\\system_test_backup\\1787160727\\report.json"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Tuga Champions League",
+  "default_locale": "pt",
+  "default_timezone": "Europe/Lisbon",
+  "features": {
+    "tera": false,
+    "disabled_commands": [
+      "alias_forget",
+      "alias_learn",
+      "alias_list",
+      "battle_summary",
+      "killboard",
+      "match_schedule",
+      "match_status",
+      "my_trades",
+      "propose_match",
+      "standings",
+      "submit_replay",
+      "timezone",
+      "trade_offer",
+      "trade_queue"
+    ]
+  },
+  "quiet_hours": {
+    "enabled": true,
+    "timezone": "Europe/Lisbon",
+    "pause_at": "23:00",
+    "resume_at": "09:00"
+  }
+}

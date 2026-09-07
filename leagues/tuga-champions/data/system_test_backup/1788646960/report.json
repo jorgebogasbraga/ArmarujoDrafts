@@ -1,0 +1,133 @@
+{
+  "session_id": "1788646960",
+  "session_dir": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788646960",
+  "admin_id": "238787830350872577",
+  "divisions": [
+    "Champions"
+  ],
+  "started_at": 1788646962.2893116,
+  "started_at_iso": "2026-09-05T22:22:42.289312+00:00",
+  "finished_at": 1788647122.8430912,
+  "finished_at_iso": "2026-09-05T22:25:22.843091+00:00",
+  "duration_seconds": 160.55,
+  "success": false,
+  "error": "403 Forbidden (error code: 50013): Missing Permissions",
+  "rolled_back": false,
+  "division_results": {
+    "Champions": false
+  },
+  "entries_by_scope": {
+    "Champions": [
+      {
+        "timestamp": 1788646962.8344457,
+        "iso": "2026-09-05T22:22:42.834446+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1788646966.8243997,
+        "iso": "2026-09-05T22:22:46.824400+00:00",
+        "level": "success",
+        "division": "Champions",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1788646967.372687,
+        "iso": "2026-09-05T22:22:47.372687+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1788646976.8014987,
+        "iso": "2026-09-05T22:22:56.801499+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 3 — pick bank for Durza (mirrors /bank save)\n  R4: Mega Charizard Y, Mega Gengar, Mega Floette  |  R6: Garchomp, Whimsicott, Basculegion"
+      },
+      {
+        "timestamp": 1788646977.3881502,
+        "iso": "2026-09-05T22:22:57.388150+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 3b — advance to Round 4 bank pick for Durza (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1788647109.2252882,
+        "iso": "2026-09-05T22:25:09.225288+00:00",
+        "level": "success",
+        "division": "Champions",
+        "message": "✓ Round 4 pick completed for Durza"
+      },
+      {
+        "timestamp": 1788647109.9590468,
+        "iso": "2026-09-05T22:25:09.959047+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1788647110.7937543,
+        "iso": "2026-09-05T22:25:10.793754+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1788647119.3706589,
+        "iso": "2026-09-05T22:25:19.370659+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1788647122.3577356,
+        "iso": "2026-09-05T22:25:22.357736+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1788647122.6070325,
+        "iso": "2026-09-05T22:25:22.607033+00:00",
+        "level": "error",
+        "division": "Champions",
+        "message": "Champions failed: 403 Forbidden (error code: 50013): Missing Permissions"
+      }
+    ],
+    "_global": [
+      {
+        "timestamp": 1788646962.2893116,
+        "iso": "2026-09-05T22:22:42.289312+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "System test started"
+      },
+      {
+        "timestamp": 1788646962.2893116,
+        "iso": "2026-09-05T22:22:42.289312+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Starting system test across 1 divisions: Champions"
+      },
+      {
+        "timestamp": 1788646962.5434713,
+        "iso": "2026-09-05T22:22:42.543471+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Phase 0 — sequential init (coaches.json safety)"
+      },
+      {
+        "timestamp": 1788647122.6690454,
+        "iso": "2026-09-05T22:25:22.669045+00:00",
+        "level": "error",
+        "division": null,
+        "message": "⛔ FAILED: 403 Forbidden (error code: 50013): Missing Permissions — review logs, then run `/rollback_system_test` when ready to restore."
+      }
+    ]
+  },
+  "entry_count": 15,
+  "report_log": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788646960\\report.log",
+  "report_json": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788646960\\report.json"
+}

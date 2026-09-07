@@ -1,0 +1,197 @@
+{
+  "session_id": "1788701521",
+  "session_dir": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788701521",
+  "admin_id": "238787830350872577",
+  "divisions": [
+    "Champions"
+  ],
+  "started_at": 1788701531.8527024,
+  "started_at_iso": "2026-09-06T13:32:11.852702+00:00",
+  "finished_at": 1788701929.635198,
+  "finished_at_iso": "2026-09-06T13:38:49.635198+00:00",
+  "duration_seconds": 397.78,
+  "success": true,
+  "error": null,
+  "rolled_back": false,
+  "division_results": {
+    "Champions": true
+  },
+  "entries_by_scope": {
+    "Champions": [
+      {
+        "timestamp": 1788701532.3592856,
+        "iso": "2026-09-06T13:32:12.359286+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1788701534.569283,
+        "iso": "2026-09-06T13:32:14.569283+00:00",
+        "level": "success",
+        "division": "Champions",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1788701535.1339796,
+        "iso": "2026-09-06T13:32:15.133980+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1788701544.789012,
+        "iso": "2026-09-06T13:32:24.789012+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 3 — pick bank for Durza (mirrors /bank save)\n  R4: Mega Charizard Y, Mega Gengar, Mega Floette  |  R6: Garchomp, Whimsicott, Basculegion"
+      },
+      {
+        "timestamp": 1788701545.3421364,
+        "iso": "2026-09-06T13:32:25.342136+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 3b — advance to Round 4 bank pick for Durza (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1788701719.4761262,
+        "iso": "2026-09-06T13:35:19.476126+00:00",
+        "level": "success",
+        "division": "Champions",
+        "message": "✓ Round 4 pick completed for Durza"
+      },
+      {
+        "timestamp": 1788701720.6641572,
+        "iso": "2026-09-06T13:35:20.664157+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1788701721.4253285,
+        "iso": "2026-09-06T13:35:21.425328+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1788701730.6498044,
+        "iso": "2026-09-06T13:35:30.649804+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1788701733.772621,
+        "iso": "2026-09-06T13:35:33.772621+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1788701736.422428,
+        "iso": "2026-09-06T13:35:36.422428+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1788701740.0969503,
+        "iso": "2026-09-06T13:35:40.096950+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 9 — 2 timer skip(s) on Bit, no replacement configured"
+      },
+      {
+        "timestamp": 1788701834.1778967,
+        "iso": "2026-09-06T13:37:14.177897+00:00",
+        "level": "success",
+        "division": "Champions",
+        "message": "✓ 2 skip(s) taken, makeups queued, no replacement triggered"
+      },
+      {
+        "timestamp": 1788701834.730241,
+        "iso": "2026-09-06T13:37:14.730241+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 10 — drain makeups and /pick until all teams are full"
+      },
+      {
+        "timestamp": 1788701835.488992,
+        "iso": "2026-09-06T13:37:15.488992+00:00",
+        "level": "info",
+        "division": "Champions",
+        "message": "Finishing — round 6 (89/128 roster slots)"
+      },
+      {
+        "timestamp": 1788701853.2755146,
+        "iso": "2026-09-06T13:37:33.275515+00:00",
+        "level": "info",
+        "division": "Champions",
+        "message": "Finishing — round 7 (96/128 roster slots)"
+      },
+      {
+        "timestamp": 1788701889.8995717,
+        "iso": "2026-09-06T13:38:09.899572+00:00",
+        "level": "info",
+        "division": "Champions",
+        "message": "Finishing — round 8 (112/128 roster slots)"
+      },
+      {
+        "timestamp": 1788701928.2078767,
+        "iso": "2026-09-06T13:38:48.207877+00:00",
+        "level": "success",
+        "division": "Champions",
+        "message": "✓ Draft complete — 128/128 roster slots, status=completed"
+      },
+      {
+        "timestamp": 1788701928.8480215,
+        "iso": "2026-09-06T13:38:48.848022+00:00",
+        "level": "info",
+        "division": "Champions",
+        "message": "128/128 roster slots\nFolgado: 8/8 (29 pts left)\nPocket Rotom: 8/8 (29 pts left)\nExtremeHD: 8/8 (20 pts left)\nDurza: 8/8 (6 pts left)\nGuinazu: 8/8 (6 pts left)\nBit: 8/8 (11 pts left)\nLewis: 8/8 (5 pts left)\nManteigadas: 8/8 (33 pts left)\nKaow: 8/8 (14 pts left)\nBruno7: 8/8 (15 pts left)\nFEsteves: 8/8 (25 pts left)\nGuilhões: 8/8 (21 pts left)\nVelozozz: 8/8 (12 pts left)\nJan: 8/8 (45 pts left)\nSquidDaFeed: 8/8 (35 pts left)\nPierini: 8/8 (26 pts left)"
+      },
+      {
+        "timestamp": 1788701928.8530219,
+        "iso": "2026-09-06T13:38:48.853022+00:00",
+        "level": "info",
+        "division": "Champions",
+        "message": "304/304 unique Pokémon drafted across system tests — pool complete"
+      }
+    ],
+    "_global": [
+      {
+        "timestamp": 1788701531.8527024,
+        "iso": "2026-09-06T13:32:11.852702+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "System test started (attempt 3/10)"
+      },
+      {
+        "timestamp": 1788701531.8817096,
+        "iso": "2026-09-06T13:32:11.881710+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Starting system test across 1 divisions: Champions"
+      },
+      {
+        "timestamp": 1788701532.103198,
+        "iso": "2026-09-06T13:32:12.103198+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Phase 0 — sequential init (coaches.json safety)"
+      },
+      {
+        "timestamp": 1788701929.4081469,
+        "iso": "2026-09-06T13:38:49.408147+00:00",
+        "level": "success",
+        "division": null,
+        "message": "All divisions passed — review results, then run `/rollback_system_test` to restore coaches, state, Participants coach rows, and tracked pick cells."
+      }
+    ]
+  },
+  "entry_count": 24,
+  "report_log": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788701521\\report.log",
+  "report_json": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788701521\\report.json",
+  "archive_log": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\logs\\system-tests\\1788701521.log"
+}

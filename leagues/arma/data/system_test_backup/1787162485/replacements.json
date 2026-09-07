@@ -1,0 +1,92 @@
+[
+  {
+    "division": "Verity",
+    "old": {
+      "discord_id": "306202589010067457",
+      "name": "Dracen",
+      "team_name": "Palm Bay Panchams",
+      "timezone": "GMT+1",
+      "logo_url": "https://media.discordapp.net/attachments/1186336826319962112/1327800756874514494/Palm_Bay_Panchams.png?ex=6a426911&is=6a411791&hm=6d45abdf02e37e6374902970a268d1d3b7d0f2abf08a9439a7af12dad4e3b9e7&=&format=webp&quality=lossless"
+    },
+    "new": {
+      "discord_id": "329968540419358720",
+      "name": "lex",
+      "team_name": "Tens HI5?",
+      "timezone": "GMT+2",
+      "logo_url": "https://media.discordapp.net/attachments/1536078493723402280/1538532787907465257/Screenshot_2026-08-16-13-59-22-314_com.whatsapp-edit.jpg"
+    },
+    "timestamp": 1787162758.3811474
+  },
+  {
+    "division": "Lunar",
+    "old": {
+      "discord_id": "509190231803559937",
+      "name": "BanditBoyd",
+      "team_name": "Venus Weedusaur",
+      "timezone": "GMT-4",
+      "logo_url": "https://media.discordapp.net/attachments/980488811064733696/1263517120579502152/IMG_1610.png?ex=6a428e84&is=6a413d04&hm=23558a4ee63038c5fd8ef17e362cf22e4e1aca120317ea2f9df2f191b9d8511e&=&format=webp&quality=lossless&width=550&height=309"
+    },
+    "new": {
+      "discord_id": "360676166950060034",
+      "name": "Toniblast",
+      "team_name": "Ronaldo Entushiast",
+      "timezone": "GMT+1",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1522418206999052298/Screenshot_2026-07-03-02-45-57-160_com.facebook.katana-edit.jpg"
+    },
+    "timestamp": 1787162761.0457888
+  },
+  {
+    "division": "Origin",
+    "old": {
+      "discord_id": "534882472693989377",
+      "name": "Lavaskull100",
+      "team_name": "Sting City Croagunks",
+      "timezone": "GMT-5",
+      "logo_url": "https://media.discordapp.net/attachments/1186336826319962112/1193662046756155403/SCC.png?ex=6a4235a9&is=6a40e429&hm=96774b44526b60ae9b20453e26511db09da7c5e1d3e18b1c7635e1e2e1cb8b4c&=&format=webp&quality=lossless&width=696&height=696"
+    },
+    "new": {
+      "discord_id": "255491400769077251",
+      "name": "SaveMeJebus",
+      "team_name": "Goblin Attack",
+      "timezone": "GMT+1",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1525493895868452994/1776596654452.jpg"
+    },
+    "timestamp": 1787162765.2353206
+  },
+  {
+    "division": "Acuity",
+    "old": {
+      "discord_id": "199929439906299905",
+      "name": "Bit",
+      "team_name": "Big Black Chomps",
+      "timezone": "GMT+1",
+      "logo_url": "https://media.discordapp.net/attachments/889573363163488346/891500560191221810/liga.png?ex=6a412558&is=6a3fd3d8&hm=b49f2b5da2070d3a27920d4c8ea9ba17e7e74bfecf3f9c9b61f4bda294517064&=&format=webp&quality=lossless&width=978&height=968"
+    },
+    "new": {
+      "discord_id": "1504567329936244928",
+      "name": "dudetaiga",
+      "team_name": "52 Bomboclat Pussy Wagon Chicken Nugget",
+      "timezone": "GMT",
+      "logo_url": "https://media.discordapp.net/attachments/1536078493723402280/1536429015487873065/52_BPWCN.png"
+    },
+    "timestamp": 1787162791.4603937
+  },
+  {
+    "division": "Valor",
+    "old": {
+      "discord_id": "559554681173704725",
+      "name": "asilentmusician",
+      "team_name": "New Jersey Substitutes",
+      "timezone": "GMT-4",
+      "logo_url": "https://media.discordapp.net/attachments/1186336826319962112/1246995445369016410/Logo_MK_III.jpg?ex=6a426fc2&is=6a411e42&hm=47d2aa385333d7298a94c16795db68f07eb462d991be191f8813a4fdcf84ee81&=&format=webp"
+    },
+    "new": {
+      "discord_id": "191576174340603904",
+      "name": "dopin",
+      "team_name": "Electric Calbry",
+      "timezone": "GMT+4",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1525493846396633108/1776596636617.jpg"
+    },
+    "timestamp": 1787162796.6458364
+  }
+]

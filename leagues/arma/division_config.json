@@ -1,0 +1,69 @@
+{
+  "divisions": [
+    {
+      "name": "Acuity",
+      "channel_id": 1516441018256326727,
+      "sheet_name": "Acuity Division",
+      "team_size": 10,
+      "total_points": 110,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "num_coaches": 16,
+      "first_coach": "Folgado"
+    },
+    {
+      "name": "Verity",
+      "channel_id": 1516441067174494258,
+      "sheet_name": "Verity Division",
+      "team_size": 10,
+      "total_points": 100,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "num_coaches": 14,
+      "first_coach": "Tucker"
+    },
+    {
+      "name": "Valor",
+      "channel_id": 1516441090809659494,
+      "sheet_name": "Valor Division",
+      "team_size": 10,
+      "total_points": 100,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "num_coaches": 14,
+      "first_coach": "Araizajoey"
+    },
+    {
+      "name": "Origin",
+      "channel_id": 1516441106152161410,
+      "sheet_name": "Origin Division",
+      "team_size": 10,
+      "total_points": 100,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "num_coaches": 14,
+      "first_coach": "Dobby"
+    },
+    {
+      "name": "Lunar",
+      "channel_id": 1516441159201853562,
+      "sheet_name": "Lunar Division",
+      "team_size": 10,
+      "total_points": 100,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "num_coaches": 14,
+      "first_coach": "Vizsla"
+    }
+  ]
+}

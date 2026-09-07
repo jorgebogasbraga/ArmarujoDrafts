@@ -1,0 +1,506 @@
+{
+  "session_id": "1787152664",
+  "session_dir": "data\\system_test_backup\\1787152664",
+  "admin_id": "238787830350872577",
+  "divisions": [
+    "Acuity",
+    "Verity",
+    "Valor",
+    "Origin",
+    "Lunar"
+  ],
+  "started_at": 1787152667.0927947,
+  "started_at_iso": "2026-08-19T15:17:47.092795+00:00",
+  "finished_at": 1787153008.8545232,
+  "finished_at_iso": "2026-08-19T15:23:28.854523+00:00",
+  "duration_seconds": 341.76,
+  "success": false,
+  "error": "Acuity Round 4 did not resolve for Durza within 180s (bank/snipe/fallback/manual)",
+  "rolled_back": false,
+  "division_results": {
+    "Acuity": false,
+    "Verity": true,
+    "Valor": true,
+    "Origin": true,
+    "Lunar": true
+  },
+  "entries_by_scope": {
+    "Acuity": [
+      {
+        "timestamp": 1787152667.6238925,
+        "iso": "2026-08-19T15:17:47.623893+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787152670.7791414,
+        "iso": "2026-08-19T15:17:50.779141+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787152680.8668816,
+        "iso": "2026-08-19T15:18:00.866882+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787152690.370965,
+        "iso": "2026-08-19T15:18:10.370965+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 3 — pick bank for Durza (mirrors /bank save)\n  R4: Baxcalibur, Deoxys-Speed, Gouging Fire  |  R6: Great Tusk, Greninja, Latios"
+      },
+      {
+        "timestamp": 1787152691.158578,
+        "iso": "2026-08-19T15:18:11.158578+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 3b — advance to Round 4 bank pick for Durza (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787153008.342689,
+        "iso": "2026-08-19T15:23:28.342689+00:00",
+        "level": "error",
+        "division": "Acuity",
+        "message": "Acuity failed: Acuity Round 4 did not resolve for Durza within 180s (bank/snipe/fallback/manual)"
+      }
+    ],
+    "Verity": [
+      {
+        "timestamp": 1787152671.3721352,
+        "iso": "2026-08-19T15:17:51.372135+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787152673.118126,
+        "iso": "2026-08-19T15:17:53.118126+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787152680.867881,
+        "iso": "2026-08-19T15:18:00.867881+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787152690.789061,
+        "iso": "2026-08-19T15:18:10.789061+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 3 — pick bank for maxo (mirrors /bank save)\n  R4: Baxcalibur, Deoxys-Speed, Gouging Fire  |  R6: Great Tusk, Greninja, Latios"
+      },
+      {
+        "timestamp": 1787152691.3498447,
+        "iso": "2026-08-19T15:18:11.349845+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 3b — advance to Round 4 bank pick for maxo (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787152830.5908256,
+        "iso": "2026-08-19T15:20:30.590826+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Round 4 pick completed for maxo"
+      },
+      {
+        "timestamp": 1787152831.4100008,
+        "iso": "2026-08-19T15:20:31.410001+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787152832.4473321,
+        "iso": "2026-08-19T15:20:32.447332+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787152841.0503016,
+        "iso": "2026-08-19T15:20:41.050302+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787152843.8408902,
+        "iso": "2026-08-19T15:20:43.840890+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787152847.1527205,
+        "iso": "2026-08-19T15:20:47.152720+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787152852.463464,
+        "iso": "2026-08-19T15:20:52.463464+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 9 — 3 natural timer skips on lex → /replace with lex"
+      },
+      {
+        "timestamp": 1787152975.7824621,
+        "iso": "2026-08-19T15:22:55.782462+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787152976.3055112,
+        "iso": "2026-08-19T15:22:56.305511+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Replace flow complete"
+      }
+    ],
+    "Valor": [
+      {
+        "timestamp": 1787152673.6790814,
+        "iso": "2026-08-19T15:17:53.679081+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787152675.5219405,
+        "iso": "2026-08-19T15:17:55.521940+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787152680.8688815,
+        "iso": "2026-08-19T15:18:00.868881+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787152691.241511,
+        "iso": "2026-08-19T15:18:11.241511+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 3 — pick bank for Flashkun (mirrors /bank save)\n  R4: Urshifu-RS, Deoxys-Speed, Gouging Fire  |  R6: Great Tusk, Greninja, Latios"
+      },
+      {
+        "timestamp": 1787152691.8978517,
+        "iso": "2026-08-19T15:18:11.897852+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 3b — advance to Round 4 bank pick for Flashkun (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787152863.6854606,
+        "iso": "2026-08-19T15:21:03.685461+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Round 4 pick completed for Flashkun"
+      },
+      {
+        "timestamp": 1787152864.228367,
+        "iso": "2026-08-19T15:21:04.228367+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787152865.1923792,
+        "iso": "2026-08-19T15:21:05.192379+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787152874.2349656,
+        "iso": "2026-08-19T15:21:14.234966+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787152877.199478,
+        "iso": "2026-08-19T15:21:17.199478+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787152880.0376275,
+        "iso": "2026-08-19T15:21:20.037627+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787152882.9504747,
+        "iso": "2026-08-19T15:21:22.950475+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 9 — 3 natural timer skips on asilentmusician → /replace with dopin"
+      },
+      {
+        "timestamp": 1787153002.858824,
+        "iso": "2026-08-19T15:23:22.858824+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787153003.4231873,
+        "iso": "2026-08-19T15:23:23.423187+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Replace flow complete"
+      }
+    ],
+    "Origin": [
+      {
+        "timestamp": 1787152676.055022,
+        "iso": "2026-08-19T15:17:56.055022+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787152677.8158147,
+        "iso": "2026-08-19T15:17:57.815815+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787152680.8698816,
+        "iso": "2026-08-19T15:18:00.869882+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787152691.287829,
+        "iso": "2026-08-19T15:18:11.287829+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 3 — pick bank for Jhonny (mirrors /bank save)\n  R4: Baxcalibur, Deoxys-Speed, Gouging Fire  |  R6: Great Tusk, Greninja, Latios"
+      },
+      {
+        "timestamp": 1787152691.9618661,
+        "iso": "2026-08-19T15:18:11.961866+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 3b — advance to Round 4 bank pick for Jhonny (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787152799.7028637,
+        "iso": "2026-08-19T15:19:59.702864+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Round 4 pick completed for Jhonny"
+      },
+      {
+        "timestamp": 1787152800.306199,
+        "iso": "2026-08-19T15:20:00.306199+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787152801.1290386,
+        "iso": "2026-08-19T15:20:01.129039+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787152810.0371394,
+        "iso": "2026-08-19T15:20:10.037139+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787152812.7438097,
+        "iso": "2026-08-19T15:20:12.743810+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787152815.5383933,
+        "iso": "2026-08-19T15:20:15.538393+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787152818.3630748,
+        "iso": "2026-08-19T15:20:18.363075+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 9 — 3 natural timer skips on SaveMeJebus → /replace with SaveMeJebus"
+      },
+      {
+        "timestamp": 1787152942.9590187,
+        "iso": "2026-08-19T15:22:22.959019+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787152943.4620078,
+        "iso": "2026-08-19T15:22:23.462008+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Replace flow complete"
+      }
+    ],
+    "Lunar": [
+      {
+        "timestamp": 1787152678.344945,
+        "iso": "2026-08-19T15:17:58.344945+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787152680.1650996,
+        "iso": "2026-08-19T15:18:00.165100+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787152680.8698816,
+        "iso": "2026-08-19T15:18:00.869882+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787152690.7430491,
+        "iso": "2026-08-19T15:18:10.743049+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 3 — pick bank for Spartan (mirrors /bank save)\n  R4: Baxcalibur, Gouging Fire, Great Tusk  |  R6: Greninja, Latios, Roaring Moon"
+      },
+      {
+        "timestamp": 1787152691.516861,
+        "iso": "2026-08-19T15:18:11.516861+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 3b — advance to Round 4 bank pick for Spartan (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787152800.5081978,
+        "iso": "2026-08-19T15:20:00.508198+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Round 4 pick completed for Spartan"
+      },
+      {
+        "timestamp": 1787152801.128039,
+        "iso": "2026-08-19T15:20:01.128039+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787152802.3406918,
+        "iso": "2026-08-19T15:20:02.340692+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787152810.95705,
+        "iso": "2026-08-19T15:20:10.957050+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787152813.8812711,
+        "iso": "2026-08-19T15:20:13.881271+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787152816.7180738,
+        "iso": "2026-08-19T15:20:16.718074+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787152819.7059002,
+        "iso": "2026-08-19T15:20:19.705900+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 9 — 3 natural timer skips on BanditBoyd → /replace with Toniblast"
+      },
+      {
+        "timestamp": 1787152939.886384,
+        "iso": "2026-08-19T15:22:19.886384+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787152940.7340379,
+        "iso": "2026-08-19T15:22:20.734038+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Replace flow complete"
+      }
+    ],
+    "_global": [
+      {
+        "timestamp": 1787152667.0927947,
+        "iso": "2026-08-19T15:17:47.092795+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "System test started"
+      },
+      {
+        "timestamp": 1787152667.0937946,
+        "iso": "2026-08-19T15:17:47.093795+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Starting system test across 5 divisions: Acuity, Verity, Valor, Origin, Lunar"
+      },
+      {
+        "timestamp": 1787152667.3088307,
+        "iso": "2026-08-19T15:17:47.308831+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Phase 0 — sequential init (coaches.json safety)"
+      },
+      {
+        "timestamp": 1787153008.3446903,
+        "iso": "2026-08-19T15:23:28.344690+00:00",
+        "level": "error",
+        "division": null,
+        "message": "⛔ FAILED: Acuity Round 4 did not resolve for Durza within 180s (bank/snipe/fallback/manual) — review logs, then run `/rollback_system_test` when ready to restore."
+      }
+    ]
+  },
+  "entry_count": 66,
+  "report_log": "data\\system_test_backup\\1787152664\\report.log",
+  "report_json": "data\\system_test_backup\\1787152664\\report.json"
+}

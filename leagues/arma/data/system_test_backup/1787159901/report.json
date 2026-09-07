@@ -1,0 +1,247 @@
+{
+  "session_id": "1787159901",
+  "session_dir": "data\\system_test_backup\\1787159901",
+  "admin_id": "238787830350872577",
+  "divisions": [
+    "Acuity",
+    "Verity",
+    "Valor",
+    "Origin",
+    "Lunar"
+  ],
+  "started_at": 1787159902.6441462,
+  "started_at_iso": "2026-08-19T17:18:22.644146+00:00",
+  "finished_at": 1787159929.936629,
+  "finished_at_iso": "2026-08-19T17:18:49.936629+00:00",
+  "duration_seconds": 27.29,
+  "success": false,
+  "error": "Acuity bank R4 failed: **Landorus** is ambiguous — specify the exact form: Landorus, Landorus-T",
+  "rolled_back": false,
+  "division_results": {
+    "Acuity": false,
+    "Verity": false,
+    "Valor": false,
+    "Origin": false,
+    "Lunar": false
+  },
+  "entries_by_scope": {
+    "Acuity": [
+      {
+        "timestamp": 1787159903.527172,
+        "iso": "2026-08-19T17:18:23.527172+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787159906.2849998,
+        "iso": "2026-08-19T17:18:26.285000+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787159918.619104,
+        "iso": "2026-08-19T17:18:38.619104+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787159928.6449199,
+        "iso": "2026-08-19T17:18:48.644920+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 3 — pick bank for Durza (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787159929.4838703,
+        "iso": "2026-08-19T17:18:49.483870+00:00",
+        "level": "error",
+        "division": "Acuity",
+        "message": "Acuity failed: Acuity bank R4 failed: **Landorus** is ambiguous — specify the exact form: Landorus, Landorus-T"
+      }
+    ],
+    "Verity": [
+      {
+        "timestamp": 1787159906.9879718,
+        "iso": "2026-08-19T17:18:26.987972+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787159909.9236374,
+        "iso": "2026-08-19T17:18:29.923637+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787159918.620104,
+        "iso": "2026-08-19T17:18:38.620104+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787159928.2433438,
+        "iso": "2026-08-19T17:18:48.243344+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 3 — pick bank for maxo (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787159929.4848714,
+        "iso": "2026-08-19T17:18:49.484871+00:00",
+        "level": "error",
+        "division": "Verity",
+        "message": "Verity failed: Verity bank R4 failed: **Landorus** is ambiguous — specify the exact form: Landorus, Landorus-T"
+      }
+    ],
+    "Valor": [
+      {
+        "timestamp": 1787159910.63189,
+        "iso": "2026-08-19T17:18:30.631890+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787159912.9091642,
+        "iso": "2026-08-19T17:18:32.909164+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787159918.6211042,
+        "iso": "2026-08-19T17:18:38.621104+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787159928.7887383,
+        "iso": "2026-08-19T17:18:48.788738+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 3 — pick bank for Flashkun (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787159929.4858708,
+        "iso": "2026-08-19T17:18:49.485871+00:00",
+        "level": "error",
+        "division": "Valor",
+        "message": "Valor failed: Valor bank R4 failed: **Landorus** is ambiguous — specify the exact form: Landorus, Landorus-T"
+      }
+    ],
+    "Origin": [
+      {
+        "timestamp": 1787159913.4830875,
+        "iso": "2026-08-19T17:18:33.483088+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787159915.5205064,
+        "iso": "2026-08-19T17:18:35.520506+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787159918.6221044,
+        "iso": "2026-08-19T17:18:38.622104+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787159928.2413433,
+        "iso": "2026-08-19T17:18:48.241343+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 3 — pick bank for Jhonny (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787159929.4858708,
+        "iso": "2026-08-19T17:18:49.485871+00:00",
+        "level": "error",
+        "division": "Origin",
+        "message": "Origin failed: Origin bank R4 failed: **Landorus** is ambiguous — specify the exact form: Landorus, Landorus-T"
+      }
+    ],
+    "Lunar": [
+      {
+        "timestamp": 1787159916.1840582,
+        "iso": "2026-08-19T17:18:36.184058+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787159918.06778,
+        "iso": "2026-08-19T17:18:38.067780+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787159918.6231048,
+        "iso": "2026-08-19T17:18:38.623105+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787159928.874631,
+        "iso": "2026-08-19T17:18:48.874631+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 3 — pick bank for Spartan (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787159929.486872,
+        "iso": "2026-08-19T17:18:49.486872+00:00",
+        "level": "error",
+        "division": "Lunar",
+        "message": "Lunar failed: Lunar bank R4 failed: **Landorus** is ambiguous — specify the exact form: Landorus, Landorus-T"
+      }
+    ],
+    "_global": [
+      {
+        "timestamp": 1787159902.6441462,
+        "iso": "2026-08-19T17:18:22.644146+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "System test started"
+      },
+      {
+        "timestamp": 1787159902.6451461,
+        "iso": "2026-08-19T17:18:22.645146+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Starting system test across 5 divisions: Acuity, Verity, Valor, Origin, Lunar"
+      },
+      {
+        "timestamp": 1787159903.1572685,
+        "iso": "2026-08-19T17:18:23.157269+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Phase 0 — sequential init (coaches.json safety)"
+      },
+      {
+        "timestamp": 1787159929.4888713,
+        "iso": "2026-08-19T17:18:49.488871+00:00",
+        "level": "error",
+        "division": null,
+        "message": "⛔ FAILED: Acuity bank R4 failed: **Landorus** is ambiguous — specify the exact form: Landorus, Landorus-T — review logs, then run `/rollback_system_test` when ready to restore."
+      }
+    ]
+  },
+  "entry_count": 29,
+  "report_log": "data\\system_test_backup\\1787159901\\report.log",
+  "report_json": "data\\system_test_backup\\1787159901\\report.json"
+}

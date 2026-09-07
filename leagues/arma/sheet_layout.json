@@ -1,0 +1,60 @@
+{
+  "sheets": {
+    "master_pool": "Sheet2",
+    "participants": "Participants",
+    "draft_board": "Drafting Pool",
+    "status_log": "draftStatus",
+    "match_proposals": "Match Proposals",
+    "standings": "Standings",
+    "match_results": "Match Results",
+    "kill_stats": "Kill Stats",
+    "trades": "Trades"
+  },
+  "master_pool": {
+    "header_rows": 1,
+    "columns": {
+      "pokedex_id": 1,
+      "name": 2,
+      "points": 3,
+      "tera_tax": 5
+    },
+    "banned_value": "banned"
+  },
+  "participants": {
+    "start_row": 5,
+    "read_range": "D{start_row}:I1000",
+    "columns": {
+      "name": 0,
+      "team_name": 1,
+      "discord_id": 2,
+      "logo_url": 3,
+      "timezone": 5
+    },
+    "sheet_columns": {
+      "name": "D",
+      "team_name": "E",
+      "discord_id": "F",
+      "logo_url": "G",
+      "timezone": "I"
+    }
+  },
+  "card_grid": {
+    "first_name_row": 3,
+    "first_name_col": 7,
+    "cards_per_row_block": 8,
+    "column_step": 4,
+    "row_step": 14,
+    "name_to_dropdown_col_offset": 1,
+    "dropdown_start_row_offset": 2,
+    "division_gap_rows": 5,
+    "single_block_fallback_rows": 10
+  },
+  "divisions_order": [
+    "Acuity",
+    "Verity",
+    "Valor",
+    "Origin",
+    "Lunar",
+    "Shadow"
+  ]
+}

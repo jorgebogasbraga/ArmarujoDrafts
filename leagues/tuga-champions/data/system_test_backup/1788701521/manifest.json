@@ -1,0 +1,14 @@
+{
+  "session_id": "1788701521",
+  "session_dir": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788701521",
+  "divisions": [
+    "Champions"
+  ],
+  "coaches_backup": null,
+  "state_backups": {
+    "Champions": null
+  },
+  "sheets_snapshot": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788701521\\sheets_snapshot.json",
+  "replacements_log": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788701521\\replacements.json",
+  "created_at": 1788701531.8500655
+}

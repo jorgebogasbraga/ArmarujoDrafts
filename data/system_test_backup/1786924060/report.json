@@ -1,0 +1,289 @@
+{
+  "session_id": "1786924060",
+  "session_dir": "data\\system_test_backup\\1786924060",
+  "admin_id": "238787830350872577",
+  "divisions": [
+    "Acuity",
+    "Verity",
+    "Valor",
+    "Origin",
+    "Lunar"
+  ],
+  "started_at": 1786924060.666711,
+  "started_at_iso": "2026-08-16T23:47:40.666711+00:00",
+  "finished_at": 1786924219.175975,
+  "finished_at_iso": "2026-08-16T23:50:19.175975+00:00",
+  "duration_seconds": 158.51,
+  "success": false,
+  "error": "Acuity bank did not fire for Durza (round 4)",
+  "rolled_back": true,
+  "division_results": {
+    "Acuity": false,
+    "Verity": false,
+    "Valor": false,
+    "Origin": false,
+    "Lunar": false
+  },
+  "entries_by_scope": {
+    "Acuity": [
+      {
+        "timestamp": 1786924061.1753657,
+        "iso": "2026-08-16T23:47:41.175366+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1786924063.7953532,
+        "iso": "2026-08-16T23:47:43.795353+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1786924077.6842387,
+        "iso": "2026-08-16T23:47:57.684239+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1786924087.1335654,
+        "iso": "2026-08-16T23:48:07.133565+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 3 — pick bank for Durza (mirrors /bank save)\n  R4: Baxcalibur, Deoxys-Speed, Gouging Fire  |  R6: Great Tusk, Greninja, Latios"
+      },
+      {
+        "timestamp": 1786924087.8471267,
+        "iso": "2026-08-16T23:48:07.847127+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 3b — advance to Round 4 bank auto-pick for Durza"
+      },
+      {
+        "timestamp": 1786924218.5794015,
+        "iso": "2026-08-16T23:50:18.579401+00:00",
+        "level": "error",
+        "division": "Acuity",
+        "message": "Acuity failed: Acuity bank did not fire for Durza (round 4)"
+      }
+    ],
+    "Verity": [
+      {
+        "timestamp": 1786924064.333421,
+        "iso": "2026-08-16T23:47:44.333421+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1786924067.04149,
+        "iso": "2026-08-16T23:47:47.041490+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1786924077.6852386,
+        "iso": "2026-08-16T23:47:57.685239+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1786924087.4669042,
+        "iso": "2026-08-16T23:48:07.466904+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 3 — pick bank for maxo (mirrors /bank save)\n  R4: Urshifu-RS, Baxcalibur, Deoxys-Speed  |  R6: Gouging Fire, Great Tusk, Greninja"
+      },
+      {
+        "timestamp": 1786924088.0801802,
+        "iso": "2026-08-16T23:48:08.080180+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 3b — advance to Round 4 bank auto-pick for maxo"
+      },
+      {
+        "timestamp": 1786924218.5804017,
+        "iso": "2026-08-16T23:50:18.580402+00:00",
+        "level": "error",
+        "division": "Verity",
+        "message": "Verity failed: Verity bank did not fire for maxo (round 5)"
+      }
+    ],
+    "Valor": [
+      {
+        "timestamp": 1786924067.7655313,
+        "iso": "2026-08-16T23:47:47.765531+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1786924070.2764943,
+        "iso": "2026-08-16T23:47:50.276494+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1786924077.686239,
+        "iso": "2026-08-16T23:47:57.686239+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1786924087.3001783,
+        "iso": "2026-08-16T23:48:07.300178+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 3 — pick bank for Flashkun (mirrors /bank save)\n  R4: Urshifu-RS, Baxcalibur, Deoxys-Speed  |  R6: Great Tusk, Greninja, Latios"
+      },
+      {
+        "timestamp": 1786924087.9171426,
+        "iso": "2026-08-16T23:48:07.917143+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 3b — advance to Round 4 bank auto-pick for Flashkun"
+      },
+      {
+        "timestamp": 1786924218.5804017,
+        "iso": "2026-08-16T23:50:18.580402+00:00",
+        "level": "error",
+        "division": "Valor",
+        "message": "Valor failed: Valor bank did not fire for Flashkun (round 4)"
+      }
+    ],
+    "Origin": [
+      {
+        "timestamp": 1786924071.1530468,
+        "iso": "2026-08-16T23:47:51.153047+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1786924073.901563,
+        "iso": "2026-08-16T23:47:53.901563+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1786924077.686239,
+        "iso": "2026-08-16T23:47:57.686239+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1786924087.0133278,
+        "iso": "2026-08-16T23:48:07.013328+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 3 — pick bank for Jhonny (mirrors /bank save)\n  R4: Urshifu-RS, Baxcalibur, Deoxys-Speed  |  R6: Gouging Fire, Great Tusk, Greninja"
+      },
+      {
+        "timestamp": 1786924087.6380777,
+        "iso": "2026-08-16T23:48:07.638078+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 3b — advance to Round 4 bank auto-pick for Jhonny"
+      },
+      {
+        "timestamp": 1786924218.581402,
+        "iso": "2026-08-16T23:50:18.581402+00:00",
+        "level": "error",
+        "division": "Origin",
+        "message": "Origin failed: Origin bank did not fire for Jhonny (round 4)"
+      }
+    ],
+    "Lunar": [
+      {
+        "timestamp": 1786924074.5479012,
+        "iso": "2026-08-16T23:47:54.547901+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1786924077.1306338,
+        "iso": "2026-08-16T23:47:57.130634+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1786924077.6872392,
+        "iso": "2026-08-16T23:47:57.687239+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1786924087.363205,
+        "iso": "2026-08-16T23:48:07.363205+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 3 — pick bank for Spartan (mirrors /bank save)\n  R4: Deoxys-Speed, Great Tusk, Greninja  |  R6: Latios, Roaring Moon, Sneasler"
+      },
+      {
+        "timestamp": 1786924088.0051625,
+        "iso": "2026-08-16T23:48:08.005162+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 3b — advance to Round 4 bank auto-pick for Spartan"
+      },
+      {
+        "timestamp": 1786924218.581402,
+        "iso": "2026-08-16T23:50:18.581402+00:00",
+        "level": "error",
+        "division": "Lunar",
+        "message": "Lunar failed: Lunar bank did not fire for Spartan (round 4)"
+      }
+    ],
+    "_global": [
+      {
+        "timestamp": 1786924060.666711,
+        "iso": "2026-08-16T23:47:40.666711+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "System test started"
+      },
+      {
+        "timestamp": 1786924060.6682763,
+        "iso": "2026-08-16T23:47:40.668276+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Starting system test across 5 divisions: Acuity, Verity, Valor, Origin, Lunar"
+      },
+      {
+        "timestamp": 1786924060.8980389,
+        "iso": "2026-08-16T23:47:40.898039+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Phase 0 — sequential init (coaches.json safety)"
+      },
+      {
+        "timestamp": 1786924218.5834022,
+        "iso": "2026-08-16T23:50:18.583402+00:00",
+        "level": "error",
+        "division": null,
+        "message": "⛔ FAILED: Acuity bank did not fire for Durza (round 4) — rolling back..."
+      },
+      {
+        "timestamp": 1786924218.9544315,
+        "iso": "2026-08-16T23:50:18.954432+00:00",
+        "level": "success",
+        "division": null,
+        "message": "Rollback complete — coaches and state restored."
+      }
+    ]
+  },
+  "entry_count": 35,
+  "report_log": "data\\system_test_backup\\1786924060\\report.log",
+  "report_json": "data\\system_test_backup\\1786924060\\report.json"
+}

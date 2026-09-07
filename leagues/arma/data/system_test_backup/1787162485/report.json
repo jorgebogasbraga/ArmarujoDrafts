@@ -1,0 +1,807 @@
+{
+  "session_id": "1787162485",
+  "session_dir": "data\\system_test_backup\\1787162485",
+  "admin_id": "238787830350872577",
+  "divisions": [
+    "Acuity",
+    "Verity",
+    "Valor",
+    "Origin",
+    "Lunar"
+  ],
+  "started_at": 1787162486.240781,
+  "started_at_iso": "2026-08-19T18:01:26.240781+00:00",
+  "finished_at": 1787162941.0209384,
+  "finished_at_iso": "2026-08-19T18:09:01.020938+00:00",
+  "duration_seconds": 454.78,
+  "success": true,
+  "error": null,
+  "rolled_back": false,
+  "division_results": {
+    "Acuity": true,
+    "Verity": true,
+    "Valor": true,
+    "Origin": true,
+    "Lunar": true
+  },
+  "entries_by_scope": {
+    "Acuity": [
+      {
+        "timestamp": 1787162486.78045,
+        "iso": "2026-08-19T18:01:26.780450+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787162489.1551013,
+        "iso": "2026-08-19T18:01:29.155101+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787162500.8228006,
+        "iso": "2026-08-19T18:01:40.822801+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787162510.5469358,
+        "iso": "2026-08-19T18:01:50.546936+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 3 — pick bank for Durza (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787162511.125074,
+        "iso": "2026-08-19T18:01:51.125074+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 3b — advance to Round 4 bank pick for Durza (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787162641.2501476,
+        "iso": "2026-08-19T18:04:01.250148+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Round 4 pick completed for Durza"
+      },
+      {
+        "timestamp": 1787162641.7748861,
+        "iso": "2026-08-19T18:04:01.774886+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787162643.2975368,
+        "iso": "2026-08-19T18:04:03.297537+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787162652.1554825,
+        "iso": "2026-08-19T18:04:12.155483+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787162654.8454847,
+        "iso": "2026-08-19T18:04:14.845485+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787162657.8038118,
+        "iso": "2026-08-19T18:04:17.803812+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787162660.8977935,
+        "iso": "2026-08-19T18:04:20.897794+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 9 — 3 natural timer skips on Bit → /replace with dudetaiga"
+      },
+      {
+        "timestamp": 1787162795.5073097,
+        "iso": "2026-08-19T18:06:35.507310+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787162796.2259195,
+        "iso": "2026-08-19T18:06:36.225919+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Replace flow complete"
+      },
+      {
+        "timestamp": 1787162800.931298,
+        "iso": "2026-08-19T18:06:40.931298+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 10 — drain makeups and /pick until all teams are full"
+      },
+      {
+        "timestamp": 1787162801.4613605,
+        "iso": "2026-08-19T18:06:41.461360+00:00",
+        "level": "info",
+        "division": "Acuity",
+        "message": "Finishing — round 7 (101/160 roster slots)"
+      },
+      {
+        "timestamp": 1787162828.6847768,
+        "iso": "2026-08-19T18:07:08.684777+00:00",
+        "level": "info",
+        "division": "Acuity",
+        "message": "Finishing — round 8 (112/160 roster slots)"
+      },
+      {
+        "timestamp": 1787162866.4474683,
+        "iso": "2026-08-19T18:07:46.447468+00:00",
+        "level": "info",
+        "division": "Acuity",
+        "message": "Finishing — round 9 (128/160 roster slots)"
+      },
+      {
+        "timestamp": 1787162903.7917078,
+        "iso": "2026-08-19T18:08:23.791708+00:00",
+        "level": "info",
+        "division": "Acuity",
+        "message": "Finishing — round 10 (144/160 roster slots)"
+      },
+      {
+        "timestamp": 1787162940.1409395,
+        "iso": "2026-08-19T18:09:00.140939+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "✓ Draft complete — 160/160 roster slots, status=completed"
+      },
+      {
+        "timestamp": 1787162940.6849341,
+        "iso": "2026-08-19T18:09:00.684934+00:00",
+        "level": "info",
+        "division": "Acuity",
+        "message": "160/160 roster slots\nFolgado: 10/10 (0 pts left)\nPocket Rotom: 10/10 (0 pts left)\nExtremeHD: 10/10 (1 pts left)\nDurza: 10/10 (0 pts left)\nGuinazu: 10/10 (1 pts left)\ndudetaiga: 10/10 (0 pts left)\nLewis: 10/10 (6 pts left)\nManteigadas: 10/10 (0 pts left)\nKaow: 10/10 (0 pts left)\nBruno7: 10/10 (0 pts left)\nFEsteves: 10/10 (0 pts left)\nGuilhoes: 10/10 (0 pts left)\nVelozozz: 10/10 (0 pts left)\nJan: 10/10 (0 pts left)\nSquidDaFeed: 10/10 (0 pts left)\nPierini: 10/10 (0 pts left)"
+      }
+    ],
+    "Verity": [
+      {
+        "timestamp": 1787162489.8131278,
+        "iso": "2026-08-19T18:01:29.813128+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787162491.9089463,
+        "iso": "2026-08-19T18:01:31.908946+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787162500.823801,
+        "iso": "2026-08-19T18:01:40.823801+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787162511.5808654,
+        "iso": "2026-08-19T18:01:51.580865+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 3 — pick bank for maxo (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787162512.367467,
+        "iso": "2026-08-19T18:01:52.367467+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 3b — advance to Round 4 bank pick for maxo (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787162621.8337107,
+        "iso": "2026-08-19T18:03:41.833711+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Round 4 pick completed for maxo"
+      },
+      {
+        "timestamp": 1787162622.380206,
+        "iso": "2026-08-19T18:03:42.380206+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787162623.145959,
+        "iso": "2026-08-19T18:03:43.145959+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787162631.722,
+        "iso": "2026-08-19T18:03:51.722000+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787162634.4798386,
+        "iso": "2026-08-19T18:03:54.479839+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787162637.5852861,
+        "iso": "2026-08-19T18:03:57.585286+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787162640.5898006,
+        "iso": "2026-08-19T18:04:00.589801+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 9 — 3 natural timer skips on Dracen → /replace with lex"
+      },
+      {
+        "timestamp": 1787162762.854754,
+        "iso": "2026-08-19T18:06:02.854754+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787162763.5125597,
+        "iso": "2026-08-19T18:06:03.512560+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Replace flow complete"
+      },
+      {
+        "timestamp": 1787162768.1213756,
+        "iso": "2026-08-19T18:06:08.121376+00:00",
+        "level": "phase",
+        "division": "Verity",
+        "message": "Phase 10 — drain makeups and /pick until all teams are full"
+      },
+      {
+        "timestamp": 1787162768.6452823,
+        "iso": "2026-08-19T18:06:08.645282+00:00",
+        "level": "info",
+        "division": "Verity",
+        "message": "Finishing — round 7 (89/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162789.540487,
+        "iso": "2026-08-19T18:06:29.540487+00:00",
+        "level": "info",
+        "division": "Verity",
+        "message": "Finishing — round 8 (98/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162823.5063717,
+        "iso": "2026-08-19T18:07:03.506372+00:00",
+        "level": "info",
+        "division": "Verity",
+        "message": "Finishing — round 9 (112/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162855.911045,
+        "iso": "2026-08-19T18:07:35.911045+00:00",
+        "level": "info",
+        "division": "Verity",
+        "message": "Finishing — round 10 (126/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162888.376965,
+        "iso": "2026-08-19T18:08:08.376965+00:00",
+        "level": "success",
+        "division": "Verity",
+        "message": "✓ Draft complete — 140/140 roster slots, status=completed"
+      },
+      {
+        "timestamp": 1787162889.7923923,
+        "iso": "2026-08-19T18:08:09.792392+00:00",
+        "level": "info",
+        "division": "Verity",
+        "message": "140/140 roster slots\nTucker: 10/10 (0 pts left)\nLeafOwO: 10/10 (0 pts left)\nivandl4: 10/10 (0 pts left)\nmaxo: 10/10 (0 pts left)\ngerginator1: 10/10 (0 pts left)\nlex: 10/10 (0 pts left)\nAbhinav: 10/10 (0 pts left)\nGeniusTurtle: 10/10 (0 pts left)\nBenisama: 10/10 (1 pts left)\nJulianttc: 10/10 (1 pts left)\nthaton3kidd: 10/10 (3 pts left)\nDr.Dingnut: 10/10 (1 pts left)\nMr. Mosti: 10/10 (0 pts left)\nZetious: 10/10 (1 pts left)"
+      }
+    ],
+    "Valor": [
+      {
+        "timestamp": 1787162492.4987578,
+        "iso": "2026-08-19T18:01:32.498758+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787162494.435266,
+        "iso": "2026-08-19T18:01:34.435266+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787162500.8248012,
+        "iso": "2026-08-19T18:01:40.824801+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787162512.6714387,
+        "iso": "2026-08-19T18:01:52.671439+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 3 — pick bank for Flashkun (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787162513.2444553,
+        "iso": "2026-08-19T18:01:53.244455+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 3b — advance to Round 4 bank pick for Flashkun (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787162655.5668128,
+        "iso": "2026-08-19T18:04:15.566813+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Round 4 pick completed for Flashkun"
+      },
+      {
+        "timestamp": 1787162656.1938167,
+        "iso": "2026-08-19T18:04:16.193817+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787162657.0261836,
+        "iso": "2026-08-19T18:04:17.026184+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787162665.6660564,
+        "iso": "2026-08-19T18:04:25.666056+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787162668.249738,
+        "iso": "2026-08-19T18:04:28.249738+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787162671.119661,
+        "iso": "2026-08-19T18:04:31.119661+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787162674.3512776,
+        "iso": "2026-08-19T18:04:34.351278+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 9 — 3 natural timer skips on asilentmusician → /replace with dopin"
+      },
+      {
+        "timestamp": 1787162801.3003817,
+        "iso": "2026-08-19T18:06:41.300382+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787162801.9198854,
+        "iso": "2026-08-19T18:06:41.919885+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Replace flow complete"
+      },
+      {
+        "timestamp": 1787162802.574383,
+        "iso": "2026-08-19T18:06:42.574383+00:00",
+        "level": "phase",
+        "division": "Valor",
+        "message": "Phase 10 — drain makeups and /pick until all teams are full"
+      },
+      {
+        "timestamp": 1787162807.037837,
+        "iso": "2026-08-19T18:06:47.037837+00:00",
+        "level": "info",
+        "division": "Valor",
+        "message": "Finishing — round 7 (89/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162827.864103,
+        "iso": "2026-08-19T18:07:07.864103+00:00",
+        "level": "info",
+        "division": "Valor",
+        "message": "Finishing — round 8 (98/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162861.2461634,
+        "iso": "2026-08-19T18:07:41.246163+00:00",
+        "level": "info",
+        "division": "Valor",
+        "message": "Finishing — round 9 (112/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162894.2799094,
+        "iso": "2026-08-19T18:08:14.279909+00:00",
+        "level": "info",
+        "division": "Valor",
+        "message": "Finishing — round 10 (126/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162927.4800303,
+        "iso": "2026-08-19T18:08:47.480030+00:00",
+        "level": "success",
+        "division": "Valor",
+        "message": "✓ Draft complete — 140/140 roster slots, status=completed"
+      },
+      {
+        "timestamp": 1787162928.0551803,
+        "iso": "2026-08-19T18:08:48.055180+00:00",
+        "level": "info",
+        "division": "Valor",
+        "message": "140/140 roster slots\nAraizajoey: 10/10 (0 pts left)\ndasocks: 10/10 (0 pts left)\nNick Not Nicholas: 10/10 (0 pts left)\nFlashkun: 10/10 (0 pts left)\nIverycoast: 10/10 (0 pts left)\ndopin: 10/10 (0 pts left)\nAchelles: 10/10 (2 pts left)\nOrangeIntensity: 10/10 (2 pts left)\nxhiku.69: 10/10 (0 pts left)\nAzeleia: 10/10 (0 pts left)\niamstupiditstrue: 10/10 (1 pts left)\n_5371: 10/10 (0 pts left)\nMiraidonGaming: 10/10 (0 pts left)\nPyreon: 10/10 (0 pts left)"
+      }
+    ],
+    "Origin": [
+      {
+        "timestamp": 1787162495.1008103,
+        "iso": "2026-08-19T18:01:35.100810+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787162497.6055841,
+        "iso": "2026-08-19T18:01:37.605584+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787162500.8248012,
+        "iso": "2026-08-19T18:01:40.824801+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787162510.253176,
+        "iso": "2026-08-19T18:01:50.253176+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 3 — pick bank for Jhonny (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787162510.8526316,
+        "iso": "2026-08-19T18:01:50.852632+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 3b — advance to Round 4 bank pick for Jhonny (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787162624.1805353,
+        "iso": "2026-08-19T18:03:44.180535+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Round 4 pick completed for Jhonny"
+      },
+      {
+        "timestamp": 1787162624.803041,
+        "iso": "2026-08-19T18:03:44.803041+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787162625.6279855,
+        "iso": "2026-08-19T18:03:45.627985+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787162634.217542,
+        "iso": "2026-08-19T18:03:54.217542+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787162637.3340213,
+        "iso": "2026-08-19T18:03:57.334021+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787162640.2320952,
+        "iso": "2026-08-19T18:04:00.232095+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787162643.180339,
+        "iso": "2026-08-19T18:04:03.180339+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 9 — 3 natural timer skips on Lavaskull100 → /replace with SaveMeJebus"
+      },
+      {
+        "timestamp": 1787162770.721014,
+        "iso": "2026-08-19T18:06:10.721014+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787162771.2726514,
+        "iso": "2026-08-19T18:06:11.272651+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Replace flow complete"
+      },
+      {
+        "timestamp": 1787162771.8818831,
+        "iso": "2026-08-19T18:06:11.881883+00:00",
+        "level": "phase",
+        "division": "Origin",
+        "message": "Phase 10 — drain makeups and /pick until all teams are full"
+      },
+      {
+        "timestamp": 1787162772.4120553,
+        "iso": "2026-08-19T18:06:12.412055+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "Finishing — round 7 (89/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162797.803363,
+        "iso": "2026-08-19T18:06:37.803363+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "Finishing — round 8 (98/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162833.0058637,
+        "iso": "2026-08-19T18:07:13.005864+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "Finishing — round 9 (112/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162865.7600567,
+        "iso": "2026-08-19T18:07:45.760057+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "Finishing — round 10 (126/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162898.831233,
+        "iso": "2026-08-19T18:08:18.831233+00:00",
+        "level": "success",
+        "division": "Origin",
+        "message": "✓ Draft complete — 140/140 roster slots, status=completed"
+      },
+      {
+        "timestamp": 1787162899.345882,
+        "iso": "2026-08-19T18:08:19.345882+00:00",
+        "level": "info",
+        "division": "Origin",
+        "message": "140/140 roster slots\nDobby: 10/10 (0 pts left)\nSicko Modem: 10/10 (2 pts left)\nOCordO: 10/10 (1 pts left)\nJhonny: 10/10 (0 pts left)\nMcMillions: 10/10 (0 pts left)\nSaveMeJebus: 10/10 (0 pts left)\nAndyFisherman: 10/10 (1 pts left)\nDaviduvi: 10/10 (0 pts left)\nRiperino: 10/10 (2 pts left)\nFabriks: 10/10 (0 pts left)\nThoogy: 10/10 (0 pts left)\nVaami: 10/10 (1 pts left)\nHoo: 10/10 (0 pts left)\nfrobe: 10/10 (0 pts left)"
+      }
+    ],
+    "Lunar": [
+      {
+        "timestamp": 1787162498.3327942,
+        "iso": "2026-08-19T18:01:38.332794+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 1 — initialise + start draft"
+      },
+      {
+        "timestamp": 1787162500.2849996,
+        "iso": "2026-08-19T18:01:40.285000+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Draft started"
+      },
+      {
+        "timestamp": 1787162500.8258014,
+        "iso": "2026-08-19T18:01:40.825801+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 2 — 4 normal /pick(s)"
+      },
+      {
+        "timestamp": 1787162510.687666,
+        "iso": "2026-08-19T18:01:50.687666+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 3 — pick bank for Spartan (mirrors /bank save)\n  R4: Dragapult, Iron Valiant, Landorus  |  R6: Palafin, Spectrier, Urshifu"
+      },
+      {
+        "timestamp": 1787162511.3137462,
+        "iso": "2026-08-19T18:01:51.313746+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 3b — advance to Round 4 bank pick for Spartan (auto-pick, snipe fallback, or manual if all sniped)"
+      },
+      {
+        "timestamp": 1787162624.2092168,
+        "iso": "2026-08-19T18:03:44.209217+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Round 4 pick completed for Spartan"
+      },
+      {
+        "timestamp": 1787162624.8010406,
+        "iso": "2026-08-19T18:03:44.801041+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 4 — /picking"
+      },
+      {
+        "timestamp": 1787162625.6708457,
+        "iso": "2026-08-19T18:03:45.670846+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 5 — timer skip to create makeup queue"
+      },
+      {
+        "timestamp": 1787162634.481841,
+        "iso": "2026-08-19T18:03:54.481841+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 6 — /pause_draft"
+      },
+      {
+        "timestamp": 1787162637.3030148,
+        "iso": "2026-08-19T18:03:57.303015+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 7 — /makeup_pick while paused (staff)"
+      },
+      {
+        "timestamp": 1787162640.1280718,
+        "iso": "2026-08-19T18:04:00.128072+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 8 — /resume_draft"
+      },
+      {
+        "timestamp": 1787162643.238524,
+        "iso": "2026-08-19T18:04:03.238524+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 9 — 3 natural timer skips on BanditBoyd → /replace with Toniblast"
+      },
+      {
+        "timestamp": 1787162765.5235293,
+        "iso": "2026-08-19T18:06:05.523529+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Replacement posted — check <#1516441043845775492>"
+      },
+      {
+        "timestamp": 1787162766.2540557,
+        "iso": "2026-08-19T18:06:06.254056+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Replace flow complete"
+      },
+      {
+        "timestamp": 1787162770.6083236,
+        "iso": "2026-08-19T18:06:10.608324+00:00",
+        "level": "phase",
+        "division": "Lunar",
+        "message": "Phase 10 — drain makeups and /pick until all teams are full"
+      },
+      {
+        "timestamp": 1787162771.2716515,
+        "iso": "2026-08-19T18:06:11.271652+00:00",
+        "level": "info",
+        "division": "Lunar",
+        "message": "Finishing — round 7 (89/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162792.7278419,
+        "iso": "2026-08-19T18:06:32.727842+00:00",
+        "level": "info",
+        "division": "Lunar",
+        "message": "Finishing — round 8 (98/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162825.8328235,
+        "iso": "2026-08-19T18:07:05.832824+00:00",
+        "level": "info",
+        "division": "Lunar",
+        "message": "Finishing — round 9 (112/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162858.9372072,
+        "iso": "2026-08-19T18:07:38.937207+00:00",
+        "level": "info",
+        "division": "Lunar",
+        "message": "Finishing — round 10 (126/140 roster slots)"
+      },
+      {
+        "timestamp": 1787162892.0354722,
+        "iso": "2026-08-19T18:08:12.035472+00:00",
+        "level": "success",
+        "division": "Lunar",
+        "message": "✓ Draft complete — 140/140 roster slots, status=completed"
+      },
+      {
+        "timestamp": 1787162892.5923917,
+        "iso": "2026-08-19T18:08:12.592392+00:00",
+        "level": "info",
+        "division": "Lunar",
+        "message": "140/140 roster slots\nVizsla: 10/10 (0 pts left)\nJBOB: 10/10 (0 pts left)\nVortex23: 10/10 (0 pts left)\nSpartan: 10/10 (0 pts left)\nSiwis2: 10/10 (0 pts left)\nToniblast: 10/10 (0 pts left)\nJackolog: 10/10 (0 pts left)\nRK9er: 10/10 (0 pts left)\nzomb: 10/10 (1 pts left)\nAsterisk: 10/10 (0 pts left)\nMrTJP: 10/10 (2 pts left)\nCherry: 10/10 (0 pts left)\nPokeBaldy: 10/10 (0 pts left)\nbope016: 10/10 (1 pts left)"
+      }
+    ],
+    "_global": [
+      {
+        "timestamp": 1787162486.240781,
+        "iso": "2026-08-19T18:01:26.240781+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "System test started"
+      },
+      {
+        "timestamp": 1787162486.2457824,
+        "iso": "2026-08-19T18:01:26.245782+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Starting system test across 5 divisions: Acuity, Verity, Valor, Origin, Lunar"
+      },
+      {
+        "timestamp": 1787162486.52215,
+        "iso": "2026-08-19T18:01:26.522150+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Phase 0 — sequential init (coaches.json safety)"
+      },
+      {
+        "timestamp": 1787162940.686935,
+        "iso": "2026-08-19T18:09:00.686935+00:00",
+        "level": "success",
+        "division": null,
+        "message": "All divisions passed — review results, then run `/rollback_system_test` to restore coaches, state, Participants coach rows, and tracked pick cells."
+      }
+    ]
+  },
+  "entry_count": 109,
+  "report_log": "data\\system_test_backup\\1787162485\\report.log",
+  "report_json": "data\\system_test_backup\\1787162485\\report.json"
+}

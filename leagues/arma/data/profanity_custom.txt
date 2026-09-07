@@ -1,0 +1,3 @@
+# Extra blocked terms for alias_learn (one per line, case-insensitive).
+# Edit this file locally and restart the bot (or call reload_profanity_filter).
+# Lines starting with # are ignored.

@@ -1,0 +1,52 @@
+{
+  "session_id": "test123",
+  "session_dir": "C:\\Users\\jorge\\AppData\\Local\\Temp\\tmp374ab_6w\\test123",
+  "admin_id": "999",
+  "divisions": [
+    "Acuity",
+    "Verity"
+  ],
+  "started_at": 1788738170.7547913,
+  "started_at_iso": "2026-09-06T23:42:50.754791+00:00",
+  "finished_at": 1788738170.7557914,
+  "finished_at_iso": "2026-09-06T23:42:50.755791+00:00",
+  "duration_seconds": 0.0,
+  "success": false,
+  "error": "Verity failed",
+  "rolled_back": true,
+  "division_results": {
+    "Acuity": false,
+    "Verity": false
+  },
+  "entries_by_scope": {
+    "Acuity": [
+      {
+        "timestamp": 1788738170.7547913,
+        "iso": "2026-09-06T23:42:50.754791+00:00",
+        "level": "phase",
+        "division": "Acuity",
+        "message": "Phase 1 - start"
+      },
+      {
+        "timestamp": 1788738170.7547913,
+        "iso": "2026-09-06T23:42:50.754791+00:00",
+        "level": "success",
+        "division": "Acuity",
+        "message": "Draft started"
+      }
+    ],
+    "Verity": [
+      {
+        "timestamp": 1788738170.7547913,
+        "iso": "2026-09-06T23:42:50.754791+00:00",
+        "level": "error",
+        "division": "Verity",
+        "message": "Something failed"
+      }
+    ]
+  },
+  "entry_count": 3,
+  "report_log": "C:\\Users\\jorge\\AppData\\Local\\Temp\\tmp374ab_6w\\test123\\report.log",
+  "report_json": "C:\\Users\\jorge\\AppData\\Local\\Temp\\tmp374ab_6w\\test123\\report.json",
+  "archive_log": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\arma\\logs\\system-tests\\test123.log"
+}

@@ -1,0 +1,48 @@
+{
+  "sheets": {
+    "master_pool": "Pokédex",
+    "participants": "Participantes",
+    "draft_board": "Tabela do Draft",
+    "status_log": "draftStatus"
+  },
+  "master_pool": {
+    "header_rows": 0,
+    "read_range": "A2:AE1252",
+    "require_points": true,
+    "columns": {
+      "pokedex_id": 0,
+      "name": 1,
+      "points": 30
+    },
+    "banned_value": "BAN"
+  },
+  "participants": {
+    "start_row": 4,
+    "read_range": "D{start_row}:H35",
+    "columns": {
+      "name": 0,
+      "team_name": 1,
+      "discord_id": 2,
+      "logo_url": 3,
+      "timezone": 4
+    },
+    "draft_order": {
+      "sheet": "Tabela do Draft",
+      "range": "C4:C19"
+    }
+  },
+  "card_grid": {
+    "first_name_row": 3,
+    "first_name_col": 6,
+    "cards_per_row_block": 4,
+    "column_step": 4,
+    "row_step": 13,
+    "name_to_dropdown_col_offset": 0,
+    "dropdown_start_row_offset": 3,
+    "division_gap_rows": 5,
+    "row_fill": "fill"
+  },
+  "divisions_order": [
+    "Champions"
+  ]
+}

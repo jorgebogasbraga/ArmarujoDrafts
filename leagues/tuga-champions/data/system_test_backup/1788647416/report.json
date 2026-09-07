@@ -1,0 +1,63 @@
+{
+  "session_id": "1788647416",
+  "session_dir": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788647416",
+  "admin_id": "238787830350872577",
+  "divisions": [
+    "Champions"
+  ],
+  "started_at": 1788647417.5667062,
+  "started_at_iso": "2026-09-05T22:30:17.566706+00:00",
+  "finished_at": 1788647421.8777204,
+  "finished_at_iso": "2026-09-05T22:30:21.877720+00:00",
+  "duration_seconds": 4.31,
+  "success": false,
+  "error": "403 Forbidden (error code: 50013): Missing Permissions",
+  "rolled_back": false,
+  "division_results": {
+    "Champions": false
+  },
+  "entries_by_scope": {
+    "Champions": [
+      {
+        "timestamp": 1788647417.9522417,
+        "iso": "2026-09-05T22:30:17.952242+00:00",
+        "level": "phase",
+        "division": "Champions",
+        "message": "Phase 1 — initialise + start draft"
+      }
+    ],
+    "_global": [
+      {
+        "timestamp": 1788647417.5667062,
+        "iso": "2026-09-05T22:30:17.566706+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "System test started"
+      },
+      {
+        "timestamp": 1788647417.568706,
+        "iso": "2026-09-05T22:30:17.568706+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Starting system test across 1 divisions: Champions"
+      },
+      {
+        "timestamp": 1788647417.7755437,
+        "iso": "2026-09-05T22:30:17.775544+00:00",
+        "level": "phase",
+        "division": null,
+        "message": "Phase 0 — sequential init (coaches.json safety)"
+      },
+      {
+        "timestamp": 1788647421.636704,
+        "iso": "2026-09-05T22:30:21.636704+00:00",
+        "level": "error",
+        "division": null,
+        "message": "⛔ FAILED: 403 Forbidden (error code: 50013): Missing Permissions — review logs, then run `/rollback_system_test` when ready to restore."
+      }
+    ]
+  },
+  "entry_count": 5,
+  "report_log": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788647416\\report.log",
+  "report_json": "D:\\DiscordBots\\ClaudeArmaDraft\\leagues\\tuga-champions\\data\\system_test_backup\\1788647416\\report.json"
+}

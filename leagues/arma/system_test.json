@@ -1,0 +1,40 @@
+{
+  "divisions": ["Acuity", "Verity", "Valor", "Origin", "Lunar"],
+  "replacements": {
+    "Acuity": {
+      "name": "dudetaiga",
+      "team_name": "52 Bomboclat Pussy Wagon Chicken Nugget",
+      "discord_id": "1504567329936244928",
+      "logo_url": "https://media.discordapp.net/attachments/1536078493723402280/1536429015487873065/52_BPWCN.png",
+      "timezone": "GMT"
+    },
+    "Verity": {
+      "name": "lex",
+      "team_name": "Tens HI5?",
+      "discord_id": "329968540419358720",
+      "logo_url": "https://media.discordapp.net/attachments/1536078493723402280/1538532787907465257/Screenshot_2026-08-16-13-59-22-314_com.whatsapp-edit.jpg",
+      "timezone": "GMT+2"
+    },
+    "Valor": {
+      "name": "dopin",
+      "team_name": "Electric Calbry",
+      "discord_id": "191576174340603904",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1525493846396633108/1776596636617.jpg",
+      "timezone": "GMT+4"
+    },
+    "Origin": {
+      "name": "SaveMeJebus",
+      "team_name": "Goblin Attack",
+      "discord_id": "255491400769077251",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1525493895868452994/1776596654452.jpg",
+      "timezone": "GMT+1"
+    },
+    "Lunar": {
+      "name": "Toniblast",
+      "team_name": "Ronaldo Entushiast",
+      "discord_id": "360676166950060034",
+      "logo_url": "https://media.discordapp.net/attachments/1219344482454208692/1522418206999052298/Screenshot_2026-07-03-02-45-57-160_com.facebook.katana-edit.jpg",
+      "timezone": "GMT+1"
+    }
+  }
+}

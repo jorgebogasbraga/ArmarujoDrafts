@@ -1,0 +1,201 @@
+{
+  "divisions": [
+    {
+      "name": "Acuity",
+      "channel_id": 1516441018256326727,
+      "sheet_name": "Acuity Division",
+      "draft_pool_range": "A1:Z200",
+      "num_coaches": 16,
+      "team_size": 10,
+      "total_points": 110,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "coaches": [
+        {
+          "discord_id": "273572329039069185",
+          "name": "Folgado",
+          "team_name": "Bairrada Emboars",
+          "team_logo_url": "https://media.discordapp.net/attachments/1075445537484062820/1080492292281995314/bairrada_emboars.png?ex=6a33fc5d&is=6a32aadd&hm=ea90b04544383d08cd243b78af7ce3f2639d1187b94bdb93b28fe525a65dcae6&=&format=webp&quality=lossless&width=736&height=690",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "90381920680050688",
+          "name": "Pocket Rotom",
+          "team_name": "Aqours",
+          "team_logo_url": "https://media.discordapp.net/attachments/1235593415283052594/1242450393129156609/logo_final.png?ex=6a33e119&is=6a328f99&hm=d049c17d5df8fff4c62d995fce0092acfad34598a243d6d5e2813219cd8b3644&=&format=webp&quality=lossless&width=1052&height=592",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "294234330782236674",
+          "name": "ExtremeHD",
+          "team_name": "Loures Luxrays",
+          "team_logo_url": "https://media.discordapp.net/attachments/1235593415283052594/1238820131254173727/loures_luxray2.png?ex=6a33db27&is=6a3289a7&hm=a86bf9779ac0fe912d1c9767728f4b82e6808b515985d47d6e416bceb52c0ef6&=&format=webp&quality=lossless",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "283664730269155339",
+          "name": "Durza",
+          "team_name": "Leirias Missingnos",
+          "team_logo_url": "https://media.discordapp.net/attachments/1186312003527131200/1419033188377952337/leirias-missingnos-logo-2-1-2-1.png?ex=6a32eca4&is=6a319b24&hm=1f15811486cb2a78a696bc74cedb4f896a7c159285f4e2587b6b4691fb7d29ee&=&format=webp&quality=lossless&width=1099&height=968",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "469236647976763392",
+          "name": "Guinazu",
+          "team_name": "Besteiros Pokémon Clube",
+          "team_logo_url": "https://media.discordapp.net/attachments/889573363163488346/890718261031890945/logo.png?ex=6a33c0c6&is=6a326f46&hm=c93b1942ab9bfe6943f96578d12148da27b084b32c8c57ced91bbc32a0350f3e&=&format=webp&quality=lossless",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "728048708444356622",
+          "name": "Bruno7",
+          "team_name": "Chernobyl Dragalges",
+          "team_logo_url": "https://media.discordapp.net/attachments/1161797974603604118/1167435722681237594/cdr-1.png?ex=6a33e0be&is=6a328f3e&hm=e125da8b2e6aee39ae9611c86718361c825fe0f8a1ae268d34f92d0e9c1e461c&=&format=webp&quality=lossless",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "648233127663370290",
+          "name": "Lewis",
+          "team_name": "McTesuda's",
+          "team_logo_url": "https://media.discordapp.net/attachments/1161797974603604118/1168211858684116992/McTesudasLogo.png?ex=6a3367d3&is=6a321653&hm=f1d946ff992e9ae1468751a0ad01bb3d6f2933d2e045e29d254eb839d1fb6347&=&format=webp&quality=lossless&width=695&height=696",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "231787581157801986",
+          "name": "Manteigadas",
+          "team_name": "Tyranitolos",
+          "team_logo_url": "https://media.discordapp.net/attachments/1161797974603604118/1168236420775809024/tyranitolos.png?ex=6a337eb3&is=6a322d33&hm=0552700f65d7f456009dc034dbef2457b6966296e014d984568345e4211ba4ef&=&format=webp&quality=lossless&width=1052&height=592",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "238787830350872577",
+          "name": "Kaow",
+          "team_name": "Armarouge's Cock Cannon",
+          "team_logo_url": "https://media.discordapp.net/attachments/1186312003527131200/1327803069051699200/ArmarougesCockCannon.png?ex=6a33eab9&is=6a329939&hm=021edb2aca0a576e770eb70527634cad45a3aabc2f41feef67a980ee7a582d69&=&format=webp&quality=lossless&width=596&height=696",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "90451493362102272",
+          "name": "Ruben",
+          "team_name": "Soul Dew",
+          "team_logo_url": "https://media.discordapp.net/attachments/889573363163488346/893318617465253988/latias_depois_de_fazer_merda.png?ex=6a33fc0b&is=6a32aa8b&hm=b7b4f3971491895273fd7232333d6be00164f97e3e1f398de3d384deca0c042c&=&format=webp&quality=lossless&width=888&height=592",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "376141634879881237",
+          "name": "FEsteves",
+          "team_name": "Blazing Blazikens",
+          "team_logo_url": "https://media.discordapp.net/attachments/1075445537484062820/1079874073145901128/Versao_Final.png?ex=6a33b6da&is=6a32655a&hm=c74e4601225a2344e0a5fa959a95b8bb2be9bad5f2fc84fbb9d2b8bc860fbe58&=&format=webp&quality=lossless",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "273544323604283393",
+          "name": "Guilhoes",
+          "team_name": "Wet Brush",
+          "team_logo_url": "https://media.discordapp.net/attachments/1075445537484062820/1080325497751351336/wetbrush.png?ex=6a3409c6&is=6a32b846&hm=eaf2e51275b438749b7f85c4dcad0ae299ebb0613b0ce82f9663025d6228ea4f&=&format=webp&quality=lossless",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "269813695679299584",
+          "name": "Velozozz",
+          "team_name": "Velozozz and Verlisify's Vendetta",
+          "team_logo_url": "https://media.discordapp.net/attachments/889573363163488346/889643164565127179/VVV_Logo.png?ex=6a33cc03&is=6a327a83&hm=3cb6839735e09915a8901cc3e67a2032d93a185e8560c54584e5d240fed9521d&=&format=webp&quality=lossless&width=736&height=634",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "135895383686512640",
+          "name": "Jan",
+          "team_name": "La Baguette D'Armindo",
+          "team_logo_url": "https://media.discordapp.net/attachments/889573363163488346/891725673784291409/asas.png?ex=6a337680&is=6a322500&hm=66844083d2107b54f578b5165a51e73d5f5f509b331ddb441f437283bf146242&=&format=webp&quality=lossless&width=879&height=592",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "115505641304358917",
+          "name": "SquidDaFeed",
+          "team_name": "Lisbon Arcanines",
+          "team_logo_url": "https://media.discordapp.net/attachments/1186312003527131200/1416490418303930408/Lisbon_Arcanines.png?ex=6a32e700&is=6a319580&hm=2782254d7050af07e29321eddaa4a8857d604e11e1a99892c7c0c5a4b6441521&=&format=webp&quality=lossless",
+          "timezone": "Europe/Lisbon"
+        },
+        {
+          "discord_id": "357631354579451905",
+          "name": "Pierini",
+          "team_name": "Quickbro's Carnage",
+          "team_logo_url": "https://media.discordapp.net/attachments/1161797974603604118/1167441063141716109/quickbroscarnage.png?ex=6a33e5b7&is=6a329437&hm=13bb2337fad1de9af12a0cc6f2e29d37af9c20a60db55f58ebeb2e1afade6374&=&format=webp&quality=lossless&width=736&height=647",
+          "timezone": "Europe/Lisbon"
+        }        
+      ]
+    },
+    {
+      "name": "Verity",
+      "channel_id": 0,
+      "sheet_name": "Verity Division",
+      "draft_pool_range": "A1:Z200",
+      "num_coaches": 16,
+      "team_size": 10,
+      "total_points": 100,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "coaches": []
+    },
+    {
+      "name": "Valor",
+      "channel_id": 0,
+      "sheet_name": "Valor Division",
+      "draft_pool_range": "A1:Z200",
+      "num_coaches": 16,
+      "team_size": 10,
+      "total_points": 100,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "coaches": []
+    },
+    {
+      "name": "Origin",
+      "channel_id": 0,
+      "sheet_name": "Origin Division",
+      "draft_pool_range": "A1:Z200",
+      "num_coaches": 16,
+      "team_size": 10,
+      "total_points": 100,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "coaches": []
+    },
+    {
+      "name": "Lunar",
+      "channel_id": 0,
+      "sheet_name": "Lunar Division",
+      "draft_pool_range": "A1:Z200",
+      "num_coaches": 16,
+      "team_size": 10,
+      "total_points": 100,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "coaches": []
+    },
+    {
+      "name": "Shadow",
+      "channel_id": 0,
+      "sheet_name": "Shadow Division",
+      "draft_pool_range": "A1:Z200",
+      "num_coaches": 16,
+      "team_size": 10,
+      "total_points": 100,
+      "tera_captain_points": 30,
+      "pick_time_initial": 14400,
+      "pick_time_second": 7200,
+      "pick_time_final": 3600,
+      "coaches": []
+    }
+  ]
+}
